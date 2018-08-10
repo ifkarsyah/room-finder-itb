@@ -12,6 +12,7 @@ Line bot that takes input ITB room code from user and then replies with the buil
 
 ### Installing
 Before you started, you must create one Messaging API app(you can refer [here](https://developers.line.me/en/docs/messaging-api/getting-started/) and set the "Use Webhooks" to "Enabled". So, you can pass your Herokuapp to the Line's Webhooks URL setting.
+
 Clone this repository.
 ```
 git clone https://github.com/Ifkarsyah/room-finder-itb.git
